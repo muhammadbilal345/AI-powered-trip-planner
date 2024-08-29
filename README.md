@@ -27,7 +27,7 @@ Install the required packages:
 ### 3. Configure Environment Variables
 Create a .env file in the root directory and add your API key:
 
-- GOOGLE_API_KEY=your_google_api_key
+- GOOGLE_API_KEY = your_google_api_key
 - OPEN_WEATHER_MAP_KEY = open_weather_map_key
 - SKY_SCANNER_KEY = sky_scanner_key
 
