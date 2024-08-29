@@ -12,6 +12,8 @@ from typing import Tuple, Dict, Optional
 # Load environment variables
 load_dotenv()
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+OPEN_WEATHER_MAP_KEY = os.getenv("OPEN_WEATHER_MAP_KEY")
+SKY_SCANNER_KEY = os.getenv("SKY_SCANNER_KEY")
 
 # Function to log data to a CSV file
 def log_to_csv(data: Dict[str, str], filename='logs.csv') -> None:
@@ -47,8 +49,8 @@ def main() -> None:
     st.title("🌍 AI Powered Trip Planner")
     
     # Initialize services
-    weather_service = WeatherService(api_key="f766bfb7860fcf17ef98142c84b1ade2")
-    accommodation_service = AccommodationService(api_key="ad5827c9a1msh3412f736f6d392bp1d0d10jsn83572b92d1a8")
+    weather_service = WeatherService(api_key = OPEN_WEATHER_MAP_KEY)
+    accommodation_service = AccommodationService(api_key = SKY_SCANNER_KEY)
     trip_planner = TripPlanner(weather_service, accommodation_service)
     vector_store = VectorStore(dimension=384)  # Initialize with the correct dimension
     llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key=GOOGLE_API_KEY, temperature=0.7, top_p=0.9)
