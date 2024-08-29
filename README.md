@@ -19,7 +19,9 @@ Create a virtual environment and activate it:
 - python -m venv venv
 - source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-Install the required packages:
+Install the required tools and packages:
+- OS -  Windows 10 Pro
+- Python Version - 3.12
 
 **Use CLI**
 - pip install -r requirements.txt
