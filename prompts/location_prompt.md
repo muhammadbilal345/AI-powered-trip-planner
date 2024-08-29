@@ -1,0 +1,1 @@
+Extract the location from this query: 'create a trip plan for canada for upcoming 29th of august'

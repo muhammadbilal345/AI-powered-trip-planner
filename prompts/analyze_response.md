@@ -1,0 +1,1 @@
+Analyze the following response and determine if it means 'yes' or 'no': 'no'. Respond with only 'yes' or 'no'.

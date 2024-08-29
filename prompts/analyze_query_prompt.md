@@ -1,0 +1,1 @@
+Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a trip plan for canada for upcoming 29th of august'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.

@@ -1,0 +1,359 @@
+Model Name,LLM Hyperparameters,User Input,Full Prompt,API Request,API Response
+gemini-pro,"temperature=0.7, top_p=0.9",look up my plan to dubai,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'look up my plan to dubai'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve
+gemini-pro,"temperature=0.7, top_p=0.9",look up my plan to dubai,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'look up my plan to dubai'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve,"**Retrieved Trip Plan for Dubai:**
+## Trip Plan for Dubai
+
+### Overview:
+Hey there, travel enthusiast! Get ready to explore the dazzling city of Dubai, where towering skyscrapers meet opulent luxury. Dive into a world of iconic landmarks, vibrant culture, and unforgettable experiences.
+
+### Weather Forecast:
+On 2024-08-30, Dubai will greet you with a pleasant 31.27�C under overcast clouds. Perfect weather for exploring both indoors and out!
+
+### Recommended Hotels:
+To make your stay extra special, here are some top-rated hotels in various neighborhoods:
+
+- **Downtown Dubai:** Burj Khalifa, Address Downtown
+- **Dubai Marina:** Grosvenor House, Dubai Marina, Le Royal Meridien Beach Resort & Spa
+- **Deira:** Crowne Plaza Dubai Deira, M�venpick Grand Al Bustan Dubai
+- **Bur Dubai:** Gevora Hotel, Al Barsha
+
+### Suggested Journey:
+Here's a sample itinerary to help you make the most of your time in Dubai:
+
+* **Morning:** Kick off your day by visiting the iconic Burj Khalifa, the world's tallest building, for breathtaking views.
+* **Afternoon:** Immerse yourself in culture at the Dubai Museum, showcasing the city's rich history and heritage.
+* **Evening:** Indulge in a delectable dinner at C� LA VI Dubai, perched atop the Address Sky View Hotel, offering stunning city views. Afterwards, take a leisurely stroll through the Dubai Marina, admiring the glittering skyline.
+
+### Tips:
+- Pack light clothing and comfortable shoes, as you'll be doing plenty of walking.
+- Book your hotel and activities in advance, especially if traveling during peak season.
+- Consider purchasing a Dubai Pass for access to popular attractions and discounts.
+
+Would you like to save this trip plan for future reference? Let me know if you have any other questions or need further assistance.",,No
+gemini-pro,"temperature=0.7, top_p=0.9",create a trip plan to pakistan on 30th aug in this month,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a trip plan to pakistan on 30th aug in this month'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create
+gemini-pro,"temperature=0.7, top_p=0.9",create a trip plan to pakistan on 30th aug in this month,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a trip plan to pakistan on 30th aug in this month'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting weather for Pakistan on 2024-08-30,"{'date': '2024-08-30', 'location': 'Pakistan', 'temperature': 18.55, 'description': 'light rain'}"
+gemini-pro,"temperature=0.7, top_p=0.9",create a trip plan to pakistan on 30th aug in this month,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a trip plan to pakistan on 30th aug in this month'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting accommodation for Pakistan on 2024-08-30,"['Pakistan', 'Islamabad', 'Lahore', 'Karachi', 'Murree', 'Skardu', 'Nathia Gali', 'Rawalpindi', 'Hunza', 'Multan']"
+gemini-pro,"temperature=0.7, top_p=0.9",create a trip plan to pakistan on 30th aug in this month,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a trip plan to pakistan on 30th aug in this month'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create,"**Generated Trip Plan for Pakistan (2024-08-30):**
+## Trip Plan for Pakistan
+
+### Overview:
+Pakistan is a land of vibrant culture and stunning landscapes, with majestic mountains like K2, the world's second-highest peak. It's also home to ancient civilizations like the Indus Valley Civilization, leaving behind a rich tapestry of history and heritage.
+
+### Weather Forecast:
+On 2024-08-30, expect light rain with temperatures around 18.55�C.
+
+### Recommended Hotels:
+- Islamabad: Serena Hotel
+- Lahore: The Avari Lahore
+- Karachi: Pearl Continental Hotel
+- Murree: The Mall Road Hotel
+- Skardu: Shangrila Resort
+- Nathia Gali: The Nathia Gali Hotel
+- Rawalpindi: The Rawalpindi Marriott Hotel
+- Hunza: The Hunza Inn
+- Multan: The Multan Hotel
+
+### Suggested Journey:
+
+**Day 1:**
+
+* **Morning:** Visit the iconic Faisal Mosque, known for its stunning architecture.
+* **Afternoon:** Explore the Pakistan National Museum to delve into the country's rich history.
+* **Evening:** Dine at Monal Restaurant, perched on a hilltop with breathtaking views of Islamabad.
+
+**Day 2:**
+
+* **Morning:** Embark on a day trip to Taxila, an ancient city with well-preserved Buddhist ruins.
+* **Afternoon:** Visit the Lahore Fort, a UNESCO World Heritage site showcasing Mughal architecture.
+* **Evening:** Immerse yourself in the vibrant nightlife of Lahore at The Mall Road.
+
+**Day 3:**
+
+* **Morning:** Fly to Karachi, Pakistan's bustling metropolis.
+* **Afternoon:** Discover the National Museum of Pakistan to learn about the country's diverse cultures.
+* **Evening:** Enjoy a delightful dinner at Kolachi Restaurant, renowned for its fresh seafood.
+
+**Tips:**
+
+- Pack appropriate clothing for the weather conditions.
+- Make hotel reservations in advance to secure your stay.
+
+Would you like to save this trip plan to your favorites?",,No
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th august in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th august in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th august in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th august in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting weather for India on 2024-08-30,"{'date': '2024-08-30', 'location': 'India', 'temperature': 15.37, 'description': 'broken clouds'}"
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th august in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th august in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting accommodation for India on 2024-08-30,"['India', 'Indianapolis', 'Indian Wells', 'Indianapolis (IND)', 'Mumbai', 'New Delhi', 'Jaipur', 'Bengaluru', 'Udaipur', 'Hyderabad']"
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th august in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th august in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create,"**Generated Trip Plan for India (2024-08-30):**
+## Trip Plan for India
+
+### Overview:
+Get ready for an incredible adventure in India, a land of vibrant culture, ancient traditions, and breathtaking natural beauty. From the majestic Himalayas to the serene beaches of Goa, India offers an unforgettable experience for every traveler.
+
+### Weather Forecast:
+On 2024-08-30, the weather in India is expected to be 15.37�C with broken clouds.
+
+### Recommended Hotels:
+- **Luxury:** The Taj Mahal Palace, Mumbai
+- **Mid-range:** The Oberoi, New Delhi
+- **Budget:** The Park Hotel, Jaipur
+
+### Suggested Journey:
+**Day 1:**
+* **Morning:** Visit the iconic Taj Mahal, a UNESCO World Heritage Site.
+* **Afternoon:** Explore the bustling streets of Old Delhi and visit the Red Fort.
+* **Evening:** Dine at Bukhara, known for its authentic Indian cuisine.
+
+**Day 2:**
+* **Morning:** Take a yoga class in Rishikesh, the yoga capital of the world.
+* **Afternoon:** Visit the sacred Ganges River and witness the evening aarti ceremony.
+* **Evening:** Enjoy a traditional Indian dinner at Chotiwala, a popular local restaurant.
+
+**Day 3:**
+* **Morning:** Trek to Tiger Hill in Darjeeling for stunning views of the Himalayas.
+* **Afternoon:** Visit the Ghoom Monastery, one of the oldest Buddhist monasteries in the region.
+* **Evening:** Relish a Tibetan dinner at Kunga, known for its momos and thukpa.
+
+### Tips:
+- Pack light, comfortable clothing suitable for the warm weather.
+- Learn a few basic Hindi phrases to enhance your interactions.
+- Respect local customs and traditions.
+
+Would you like to save this trip plan to your favorites? Let me know if you have any questions or if there's anything else I can assist you with.",,No
+gemini-pro,"temperature=0.7, top_p=0.9",look up my plan to dubai,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'look up my plan to dubai'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve
+gemini-pro,"temperature=0.7, top_p=0.9",look up my plan to dubai,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'look up my plan to dubai'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve,"**Retrieved Trip Plan for Dubai:**
+## Trip Plan for Dubai
+
+### Overview:
+Hey there, travel enthusiast! Get ready to explore the dazzling city of Dubai, where towering skyscrapers meet opulent luxury. Dive into a world of iconic landmarks, vibrant culture, and unforgettable experiences.
+
+### Weather Forecast:
+On 2024-08-30, Dubai will greet you with a pleasant 31.27�C under overcast clouds. Perfect weather for exploring both indoors and out!
+
+### Recommended Hotels:
+To make your stay extra special, here are some top-rated hotels in various neighborhoods:
+
+- **Downtown Dubai:** Burj Khalifa, Address Downtown
+- **Dubai Marina:** Grosvenor House, Dubai Marina, Le Royal Meridien Beach Resort & Spa
+- **Deira:** Crowne Plaza Dubai Deira, M�venpick Grand Al Bustan Dubai
+- **Bur Dubai:** Gevora Hotel, Al Barsha
+
+### Suggested Journey:
+Here's a sample itinerary to help you make the most of your time in Dubai:
+
+* **Morning:** Kick off your day by visiting the iconic Burj Khalifa, the world's tallest building, for breathtaking views.
+* **Afternoon:** Immerse yourself in culture at the Dubai Museum, showcasing the city's rich history and heritage.
+* **Evening:** Indulge in a delectable dinner at C� LA VI Dubai, perched atop the Address Sky View Hotel, offering stunning city views. Afterwards, take a leisurely stroll through the Dubai Marina, admiring the glittering skyline.
+
+### Tips:
+- Pack light clothing and comfortable shoes, as you'll be doing plenty of walking.
+- Book your hotel and activities in advance, especially if traveling during peak season.
+- Consider purchasing a Dubai Pass for access to popular attractions and discounts.
+
+Would you like to save this trip plan for future reference? Let me know if you have any other questions or need further assistance.",,No
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to pakistan on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to pakistan on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to pakistan on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to pakistan on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting weather for Pakistan on 2024-08-30,"{'date': '2024-08-30', 'location': 'Pakistan', 'temperature': 18.55, 'description': 'light rain'}"
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to pakistan on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to pakistan on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting accommodation for Pakistan on 2024-08-30,"['Pakistan', 'Islamabad', 'Lahore', 'Karachi', 'Murree', 'Skardu', 'Nathia Gali', 'Rawalpindi', 'Hunza', 'Multan']"
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to pakistan on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to pakistan on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create,"**Generated Trip Plan for Pakistan (2024-08-30):**
+## Trip Plan for Pakistan
+
+**Overview:**
+
+Hey there, adventure seeker! Pakistan is calling your name with its incredible blend of culture and nature. Get ready for towering mountains, serene beaches, and a warm welcome from the locals.
+
+**Weather Forecast:**
+
+On August 30, 2024, you can expect a pleasant 18.55�C with a light sprinkle of rain.
+
+**Recommended Hotels:**
+
+Here are some top-rated hotels to make your stay comfortable:
+
+* Islamabad: Serena Hotel
+* Lahore: Avari Lahore
+* Karachi: Pearl Continental Hotel
+* Murree: The Mall Hotel
+* Skardu: Shangrila Resort
+* Nathia Gali: Pine Park Hotel
+* Rawalpindi: Marriott Hotel
+* Hunza: Serena Hunza Resort
+* Multan: Ramada Multan
+
+**Suggested Journey:**
+
+**Day 1:**
+
+* **Morning:** Start your day with a visit to the iconic Faisal Mosque in Islamabad.
+* **Afternoon:** Explore the National Museum to dive into Pakistan's rich history and culture.
+* **Evening:** Indulge in a traditional Pakistani dinner at the famous Monal Restaurant and enjoy the stunning city views.
+
+**Day 2:**
+
+* **Morning:** Embark on a breathtaking road trip to Murree, a hill station known for its picturesque landscapes.
+* **Afternoon:** Take a scenic hike or enjoy a relaxing boat ride on the serene Lake Saiful Muluk.
+* **Evening:** Cozy up at a local caf� in Nathia Gali and soak in the charming atmosphere.
+
+**Tips:**
+
+* Pack for all types of weather, as Pakistan's climate can be unpredictable.
+* Book your hotel and activities in advance, especially if you're traveling during peak season.
+
+**Save this Trip Plan:**
+
+If you love this itinerary, you can easily save it to your favorites for future reference.
+
+Enjoy your incredible adventure in Pakistan!",,No
+gemini-pro,"temperature=0.7, top_p=0.9",look up my plan to dubai,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'look up my plan to dubai'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve
+gemini-pro,"temperature=0.7, top_p=0.9",look up my plan to dubai,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'look up my plan to dubai'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve,"**Retrieved Trip Plan for Dubai:**
+## Trip Plan for Dubai
+
+### Overview:
+Hey there, travel enthusiast! Get ready to explore the dazzling city of Dubai, where towering skyscrapers meet opulent luxury. Dive into a world of iconic landmarks, vibrant culture, and unforgettable experiences.
+
+### Weather Forecast:
+On 2024-08-30, Dubai will greet you with a pleasant 31.27�C under overcast clouds. Perfect weather for exploring both indoors and out!
+
+### Recommended Hotels:
+To make your stay extra special, here are some top-rated hotels in various neighborhoods:
+
+- **Downtown Dubai:** Burj Khalifa, Address Downtown
+- **Dubai Marina:** Grosvenor House, Dubai Marina, Le Royal Meridien Beach Resort & Spa
+- **Deira:** Crowne Plaza Dubai Deira, M�venpick Grand Al Bustan Dubai
+- **Bur Dubai:** Gevora Hotel, Al Barsha
+
+### Suggested Journey:
+Here's a sample itinerary to help you make the most of your time in Dubai:
+
+* **Morning:** Kick off your day by visiting the iconic Burj Khalifa, the world's tallest building, for breathtaking views.
+* **Afternoon:** Immerse yourself in culture at the Dubai Museum, showcasing the city's rich history and heritage.
+* **Evening:** Indulge in a delectable dinner at C� LA VI Dubai, perched atop the Address Sky View Hotel, offering stunning city views. Afterwards, take a leisurely stroll through the Dubai Marina, admiring the glittering skyline.
+
+### Tips:
+- Pack light clothing and comfortable shoes, as you'll be doing plenty of walking.
+- Book your hotel and activities in advance, especially if traveling during peak season.
+- Consider purchasing a Dubai Pass for access to popular attractions and discounts.
+
+Would you like to save this trip plan for future reference? Let me know if you have any other questions or need further assistance.",,No
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting weather for India on 2024-08-30,"{'date': '2024-08-30', 'location': 'India', 'temperature': 15.37, 'description': 'broken clouds'}"
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",Requesting accommodation for India on 2024-08-30,"['India', 'Indianapolis', 'Indian Wells', 'Indianapolis (IND)', 'Mumbai', 'New Delhi', 'Jaipur', 'Bengaluru', 'Udaipur', 'Hyderabad']"
+gemini-pro,"temperature=0.7, top_p=0.9",create a plan to india on 30th aug in this week for 3 days,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'create a plan to india on 30th aug in this week for 3 days'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,create,"**Generated Trip Plan for India (2024-08-30):**
+## Trip Plan for India
+
+### Overview:
+India, a land of vibrant culture and ancient traditions, is a tapestry of diverse landscapes, from the snow-capped Himalayas to the serene beaches of Goa. It's a place where spirituality and modernity intertwine, making it a captivating destination for travelers seeking both inner peace and unforgettable experiences.
+
+### Weather Forecast:
+On 2024-08-30 in India, the temperature will be 15.37�C with broken clouds.
+
+### Recommended Hotels:
+* Mumbai: The Taj Mahal Palace
+* New Delhi: The Oberoi, New Delhi
+* Jaipur: The Leela Palace Jaipur
+* Bengaluru: The Ritz-Carlton, Bangalore
+* Udaipur: The Oberoi Udaivilas
+* Hyderabad: The Taj Falaknuma Palace
+
+### Suggested Journey:
+
+**Day 1:**
+* **Morning:** Visit the iconic Gateway of India and take a ferry to Elephanta Caves.
+* **Afternoon:** Explore the bustling streets of Colaba Causeway.
+* **Evening:** Dine at the rooftop restaurant AER for stunning city views.
+
+**Day 2:**
+* **Morning:** Visit the Gandhi Smriti museum to learn about Mahatma Gandhi's life and legacy.
+* **Afternoon:** Discover the ancient Kanheri Caves, a Buddhist monastery complex.
+* **Evening:** Enjoy a traditional Indian dinner at Ziya Restaurant.
+
+**Day 3:**
+* **Morning:** Take a day trip to the Ellora Caves, a UNESCO World Heritage Site.
+* **Afternoon:** Relax at Juhu Beach and watch the sunset.
+* **Evening:** Experience the vibrant nightlife at Bandra Kurla Complex.
+
+### Tips:
+* Pack light, comfortable clothing and sturdy shoes.
+* Learn a few basic Hindi phrases to enhance your interactions.
+* Be prepared for crowds and traffic, especially in major cities.
+
+Would you like to save this trip plan to your favorites?",,No
+gemini-pro,"temperature=0.7, top_p=0.9","{'location': 'India', 'date_range': '2024-08-30', 'trip_plan': ""## Trip Plan for India\n\n### Overview:\nIndia, a land of vibrant culture and ancient traditions, is a tapestry of diverse landscapes, from the snow-capped Himalayas to the serene beaches of Goa. It's a place where spirituality and modernity intertwine, making it a captivating destination for travelers seeking both inner peace and unforgettable experiences.\n\n### Weather Forecast:\nOn 2024-08-30 in India, the temperature will be 15.37�C with broken clouds.\n\n### Recommended Hotels:\n* Mumbai: The Taj Mahal Palace\n* New Delhi: The Oberoi, New Delhi\n* Jaipur: The Leela Palace Jaipur\n* Bengaluru: The Ritz-Carlton, Bangalore\n* Udaipur: The Oberoi Udaivilas\n* Hyderabad: The Taj Falaknuma Palace\n\n### Suggested Journey:\n\n**Day 1:**\n* **Morning:** Visit the iconic Gateway of India and take a ferry to Elephanta Caves.\n* **Afternoon:** Explore the bustling streets of Colaba Causeway.\n* **Evening:** Dine at the rooftop restaurant AER for stunning city views.\n\n**Day 2:**\n* **Morning:** Visit the Gandhi Smriti museum to learn about Mahatma Gandhi's life and legacy.\n* **Afternoon:** Discover the ancient Kanheri Caves, a Buddhist monastery complex.\n* **Evening:** Enjoy a traditional Indian dinner at Ziya Restaurant.\n\n**Day 3:**\n* **Morning:** Take a day trip to the Ellora Caves, a UNESCO World Heritage Site.\n* **Afternoon:** Relax at Juhu Beach and watch the sunset.\n* **Evening:** Experience the vibrant nightlife at Bandra Kurla Complex.\n\n### Tips:\n* Pack light, comfortable clothing and sturdy shoes.\n* Learn a few basic Hindi phrases to enhance your interactions.\n* Be prepared for crowds and traffic, especially in major cities.\n\nWould you like to save this trip plan to your favorites?""}",,,,"## Trip Plan for India
+
+### Overview:
+India, a land of vibrant culture and ancient traditions, is a tapestry of diverse landscapes, from the snow-capped Himalayas to the serene beaches of Goa. It's a place where spirituality and modernity intertwine, making it a captivating destination for travelers seeking both inner peace and unforgettable experiences.
+
+### Weather Forecast:
+On 2024-08-30 in India, the temperature will be 15.37�C with broken clouds.
+
+### Recommended Hotels:
+* Mumbai: The Taj Mahal Palace
+* New Delhi: The Oberoi, New Delhi
+* Jaipur: The Leela Palace Jaipur
+* Bengaluru: The Ritz-Carlton, Bangalore
+* Udaipur: The Oberoi Udaivilas
+* Hyderabad: The Taj Falaknuma Palace
+
+### Suggested Journey:
+
+**Day 1:**
+* **Morning:** Visit the iconic Gateway of India and take a ferry to Elephanta Caves.
+* **Afternoon:** Explore the bustling streets of Colaba Causeway.
+* **Evening:** Dine at the rooftop restaurant AER for stunning city views.
+
+**Day 2:**
+* **Morning:** Visit the Gandhi Smriti museum to learn about Mahatma Gandhi's life and legacy.
+* **Afternoon:** Discover the ancient Kanheri Caves, a Buddhist monastery complex.
+* **Evening:** Enjoy a traditional Indian dinner at Ziya Restaurant.
+
+**Day 3:**
+* **Morning:** Take a day trip to the Ellora Caves, a UNESCO World Heritage Site.
+* **Afternoon:** Relax at Juhu Beach and watch the sunset.
+* **Evening:** Experience the vibrant nightlife at Bandra Kurla Complex.
+
+### Tips:
+* Pack light, comfortable clothing and sturdy shoes.
+* Learn a few basic Hindi phrases to enhance your interactions.
+* Be prepared for crowds and traffic, especially in major cities.
+
+Would you like to save this trip plan to your favorites?",,Yes
+gemini-pro,"temperature=0.7, top_p=0.9",provide me a saved plan of saudi arabia,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'provide me a saved plan of saudi arabia'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve
+gemini-pro,"temperature=0.7, top_p=0.9",provide me a saved plan of saudi arabia,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'provide me a saved plan of saudi arabia'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve,No matching trip plan found for Saudi Arabia. Please try a different location.,,No
+gemini-pro,"temperature=0.7, top_p=0.9",provide me the saved plan to india,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'provide me the saved plan to india'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve
+gemini-pro,"temperature=0.7, top_p=0.9",provide me the saved plan to india,"Analyze the following user query to determine if they want to create a new trip plan or retrieve a saved plan: 'provide me the saved plan to india'. Respond with 'create' if they want to create a new trip plan, or 'retrieve' if they want to retrieve a saved plan.",,retrieve,"**Retrieved Trip Plan for India:**
+## Trip Plan for India
+
+### Overview:
+India, a land of vibrant culture and ancient traditions, is a tapestry of diverse landscapes, from the snow-capped Himalayas to the serene beaches of Goa. It's a place where spirituality and modernity intertwine, making it a captivating destination for travelers seeking both inner peace and unforgettable experiences.
+
+### Weather Forecast:
+On 2024-08-30 in India, the temperature will be 15.37�C with broken clouds.
+
+### Recommended Hotels:
+* Mumbai: The Taj Mahal Palace
+* New Delhi: The Oberoi, New Delhi
+* Jaipur: The Leela Palace Jaipur
+* Bengaluru: The Ritz-Carlton, Bangalore
+* Udaipur: The Oberoi Udaivilas
+* Hyderabad: The Taj Falaknuma Palace
+
+### Suggested Journey:
+
+**Day 1:**
+* **Morning:** Visit the iconic Gateway of India and take a ferry to Elephanta Caves.
+* **Afternoon:** Explore the bustling streets of Colaba Causeway.
+* **Evening:** Dine at the rooftop restaurant AER for stunning city views.
+
+**Day 2:**
+* **Morning:** Visit the Gandhi Smriti museum to learn about Mahatma Gandhi's life and legacy.
+* **Afternoon:** Discover the ancient Kanheri Caves, a Buddhist monastery complex.
+* **Evening:** Enjoy a traditional Indian dinner at Ziya Restaurant.
+
+**Day 3:**
+* **Morning:** Take a day trip to the Ellora Caves, a UNESCO World Heritage Site.
+* **Afternoon:** Relax at Juhu Beach and watch the sunset.
+* **Evening:** Experience the vibrant nightlife at Bandra Kurla Complex.
+
+### Tips:
+* Pack light, comfortable clothing and sturdy shoes.
+* Learn a few basic Hindi phrases to enhance your interactions.
+* Be prepared for crowds and traffic, especially in major cities.
+
+Would you like to save this trip plan to your favorites?",,No

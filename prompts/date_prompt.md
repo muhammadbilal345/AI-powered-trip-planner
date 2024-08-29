@@ -1,0 +1,1 @@
+Extract and convert the date from the following query: 'create a trip plan for canada for upcoming 29th of august'. If the year is not provided, assume it is 2024. Return the date in the format 'YYYY-MM-DD'.
